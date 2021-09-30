@@ -10,3 +10,4 @@ Referenced in:
 
 **The app is maintained approximately once per year so may contain vulnerbilities.**
 
+[![CI](https://github.com/VictorMoralesFlores/psweb/actions/workflows/main.yml/badge.svg)](https://github.com/VictorMoralesFlores/psweb/actions/workflows/main.yml)
